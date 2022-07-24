@@ -1,0 +1,14 @@
+#social-links{
+    margin-top:20px;
+}
+#social-links a i{
+    opacity: .5;
+    transition: .3s all ease-in;
+    font-size: 24px;
+    margin: 3px;
+}
+#social-links a i:hover{
+    opacity: 1;
+    transform: scale(1.1);
+}
+
